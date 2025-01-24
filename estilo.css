@@ -1,0 +1,87 @@
+/* imagens do site */
+.container{
+    float: center;
+}
+img{
+    border: blue solid 2px;
+    opacity: 50%;
+    height: 300px;
+    
+}
+img:hover{
+    opacity: 100%;
+    height: 450px;
+
+}
+
+body{
+    background-color: rgb(116, 74, 39);
+}
+
+table{border: solid black;}
+ul:hover{
+    height: 200px;
+}
+.final{
+    text-align: center;
+    background-color: chocolate;
+     }
+
+    .final:hover{
+       background-color: aqua;
+
+    }
+.termo{
+    opacity: 10%;
+    border-radius: 75%;
+}
+.termo:hover{
+    opacity: 100%;
+    height: 400px;
+}
+.veloc{
+    border-radius: 30%;
+    opacity: 100%;
+}
+.veloc:hover{
+    opacity: 100%;
+    height: 400px;
+                 }
+
+
+.tit1{
+border: solid 40px;
+background-color: fuchsia;
+text-align: right;
+font-family: Verdana;
+font-size: 100px;
+     }
+.ind1{
+   background: linear-gradient(white, red, blue); 
+}
+.pag1{
+    text-decoration: dashed;
+    text-align: center;
+    background-color: brown;
+    height: 50px;
+    border-radius: 70%;
+    border: solid yellow 20px;
+
+}
+.fundo1{
+    background-color: aqua;
+}
+
+nav li a{
+    border: 1px solid black ;
+    background-color: blue;
+    color: yellow;
+}
+
+    
+nav li a:hover{
+	background-color: rgb(47, 2, 56);
+	font-size: 50px;
+	color: rgb(244, 247, 250);
+}
+
